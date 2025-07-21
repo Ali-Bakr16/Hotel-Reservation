@@ -1,0 +1,17 @@
+Code,Room Type,Description
+A,Single Room,One bed for one person.
+B,Double Room,One double bed or two twin beds for two people.
+C,Twin Room,Two separate single beds.
+D,Triple Room,"Sleeping space for three people (e.g., 3 single beds)."
+E,Suite,Larger room with separate living area.
+F,Studio,A room with a bed and kitchenette (like a small apartment).
+G,Queen Room,One queen-size bed.
+H,King Room,One king-size bed.
+I,Family Room,"Designed for families, multiple beds or larger space."
+J,Deluxe Room,"Upgraded features, views, or space beyond standard rooms."
+K,Executive Room,Higher-tier room often for business travelers.
+L,Presidential Suite,"Most luxurious, often with multiple rooms and premium service."
+M,Accessible Room,Designed for guests with disabilities.
+N,Connecting Rooms,Two rooms with a door between them.
+O,Cabana Room,Poolside room with patio or direct access.
+P,Penthouse,Top-floor luxury room.
